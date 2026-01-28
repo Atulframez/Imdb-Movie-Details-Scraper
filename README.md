@@ -25,8 +25,6 @@ The script allows users to search for a movie by name and retrieves key details 
 - Requests
 - fake-useragent
 
----
-
 ## 📦 Installation
 
 ### 1️⃣ Clone the Repository
